@@ -1,8 +1,7 @@
 ## Dalxder GitHub
 dalxder@gmail.com
 
-Ingeniero Civil
-
+Ingeniero Civil  
 Estudiante ingenieria recursos hidráulicos 
 
 Estudiante sistemas de información geográfica
