@@ -1,8 +1,11 @@
 ## Dalxder GitHub
 dalxder@gmail.com
+
 Ingeniero Civil
+
 Estudiante ingenieria recursos hidráulicos 
-Estudiante sistemas de infromación geográfica
+
+Estudiante sistemas de información geográfica
 
 ```markdown
 Syntax highlighted code block
